@@ -1,7 +1,7 @@
 package test;
 //第一次修改aaa
 import java.util.ArrayList;
-//第二次注释bbb
+
 public interface IParams{
 // 获取大班名额
 public int getBig();
